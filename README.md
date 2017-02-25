@@ -1,2 +1,2 @@
 # toycnn
-A simple convoution neural network form scratch
+A simple convolutional neural network form scratch
